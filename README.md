@@ -7,4 +7,5 @@ Projects
 
 -------
 Certifications
+---------
 (uncompleted) Google Professional Cybersecurity Certificate
