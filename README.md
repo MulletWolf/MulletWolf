@@ -1,10 +1,4 @@
 ### Hello, My name is Diana Ogualiri 
-
-
-- 🔭 Beginner software developer
-- 🌱 Ctudying Software Development at Kerry College 
-- 💬 Currently has knowledge of languages such as HTML,CSS and Java
-- 📫 How to reach me: https://www.linkedin.com/in/diana-ogualiri-259857253/
-- 😄 Currently learning Fundamentals of OOP
-  
+---------------------------------------
+I am a motivated person that has an interest in cybersecurty and network engineering.I enjoy finding the solutions on problems taht are difficult for me to solve.My goal is to improve my skills so I have the ability tos ecure the network from thretas.
 
